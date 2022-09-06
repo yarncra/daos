@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?l82e03');
+  src:  url('fonts/icomoon.eot?l82e03#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?l82e03') format('truetype'),
+    url('fonts/icomoon.woff?l82e03') format('woff'),
+    url('fonts/icomoon.svg?l82e03#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-step1:before {
+  content: "\e900";
+  color: #6e4abc;
+}
+.icon-twitter:before {
+  content: "\e901";
+  color: #5e5c6c;
+}
+.icon-discord:before {
+  content: "\e902";
+  color: #5e5c6c;
+}
+.icon-arrow-btn:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-youtube:before {
+  content: "\e904";
+  color: #cd201f;
+}
+.icon-linkedin:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-step2:before {
+  content: "\e906";
+  color: #efb657;
+}
+.icon-step5:before {
+  content: "\e907";
+  color: #2962ef;
+}
+.icon-step4:before {
+  content: "\e908";
+  color: #3d8a74;
+}
+.icon-step3:before {
+  content: "\e909";
+  color: #ea5e5d;
+}
+.icon-arrow-link:before {
+  content: "\e90a";
+  color: #fff;
+}
